@@ -12,6 +12,9 @@ public class Mavenclass {
 			
 			WebDriver driver = new ChromeDriver();
 			driver.get(" https://www.facebook.com/") ;
+		        driver.get(" https://www.facebook.com/") ;
+			driver.get(" https://www.facebook.com/") ;
+		driver.get(" https://www.facebook.com/") ;
 			
 			
 	}
